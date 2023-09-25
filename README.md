@@ -1,3 +1,3 @@
 # IBM-Data-Science-Capston-SpaceX
 
-![cover image](cover.png)
+![cover image](cover.PNG)
