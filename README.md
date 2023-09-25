@@ -1,1 +1,3 @@
-# DataScience-Capstone-SpaceX
+# IBM-Data-Science-Capston-SpaceX
+
+![cover image](cover.png)
